@@ -1,5 +1,6 @@
 ### Hi there 👋
-i figured out that i can make more money doing good things than bad things, so here i am
+there's an unequal amount of good and bad in most things,
+the trick is to figure out the ratio and act accordingly
 
-- 📫[maikxchd.com](https://www.maikxchd.com)
-- 🔭[research.maikxchd.com](https://research.maikxchd.com)
+- 📫 [maikxchd.com](https://www.maikxchd.com)
+- 🔭 [research.maikxchd.com](https://research.maikxchd.com)
