@@ -4,3 +4,4 @@ the trick is to figure out the ratio and act accordingly
 
 - 📫 [maikxchd.com](https://www.maikxchd.com)
 - 🔭 [research.maikxchd.com](https://research.maikxchd.com)
+- 📚 [blog.maikxchd.com](https://blog.maikxchd.com)
