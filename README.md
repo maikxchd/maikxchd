@@ -1,6 +1,5 @@
 ### Hi there 👋
-there's an unequal amount of good and bad in most things,
-the trick is to figure out the ratio and act accordingly
+when i was 15 i hotwired PCIe over Serial and created PCIe 0.000002x
 
 - 📫 [maikxchd.com](https://www.maikxchd.com)
 - 🔭 [research.maikxchd.com](https://research.maikxchd.com)
