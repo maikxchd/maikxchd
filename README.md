@@ -1,5 +1,5 @@
 ### Hi there 👋
-when i was 15 i hotwired PCIe over Serial and created PCIe 0.000002x
+when i was 15 i hotwired PCIe over Serial and created PCIe x0.000002
 
 - 📫 [maikxchd.com](https://www.maikxchd.com)
 - 🔭 [research.maikxchd.com](https://research.maikxchd.com)
