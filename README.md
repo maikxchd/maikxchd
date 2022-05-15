@@ -1,4 +1,4 @@
-### i'm freud's greatest nightmare 👋
+### unfortunately, the geneva conventions does not apply to cyberspace
 formerly FLT, security researcher, and certified leetcode hater
 
 - 📫 [maikxchd.com](https://www.maikxchd.com)
