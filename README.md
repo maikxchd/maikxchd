@@ -1,4 +1,4 @@
-### unfortunately, the geneva conventions does not apply to cyberspace
+### Certified Ethically Challenged Hacker
 formerly FLT, security researcher, and certified leetcode hater
 
 - 📫 me@maikxchd.com
