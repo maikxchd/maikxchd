@@ -1,5 +1,5 @@
 ### Certified Ethically Challenged Hacker
-formerly FLT, security researcher, and certified leetcode hater
+don't be part of the problem, be the entire problem
 
 - 📫 me@maikxchd.com
 - 🌎 [maikxchd.com](https://www.maikxchd.com)
