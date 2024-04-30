@@ -1,4 +1,4 @@
-### Certified Ethically Challenged Hacker
+### 通用中文名
 don't be part of the problem, be the entire problem
 
 - 📫 me@maikxchd.com
